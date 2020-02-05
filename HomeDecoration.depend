@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1528931908 source:d:\cs 250\assg1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1528934926 source:d:\cs 250\assg4a_mwhitle\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<algorithm>
+
